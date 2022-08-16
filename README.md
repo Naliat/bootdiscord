@@ -1,0 +1,2 @@
+# bootdiscord
+Boot para discord
